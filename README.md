@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Qulan
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning github
-- 💞️ I’m looking to collaborate on getting better @this
+- 🌱 I’m currently learning crocheting
+- 💞️ I’m looking to collaborate on trying new stuff
 
 <!---
 ab168987/ab168987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
